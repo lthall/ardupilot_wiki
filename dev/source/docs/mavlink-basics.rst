@@ -39,7 +39,7 @@ High Level Message Flow
 - Ground station or companion computer send commands to the vehicle.  Details of the supported commands are :ref:`here for copter <copter-commands-in-guided-mode>` and :ref:`plane <plane-commands-in-guided-mode>`
 
 MAVLink1(v1) vs MAVLink2(v2)
---------------------
+----------------------------
 In this document, MAVLink protocol versions v1 and v2 are referred to as MAVLink1 and MAVLink2 respectively.
 - MAVLink2 messages have a maximum of 280 bytes of length, as they implement compatibility flags and support for signature.
 - MAVLink2 extends MAVLink1 by allowing new fields to be added to existing MAVLink1 messages, supports new messages with ``Message ID`` over "255" and adds support for signing messages
