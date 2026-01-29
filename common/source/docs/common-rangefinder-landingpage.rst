@@ -73,10 +73,8 @@ Unidirectional Rangefinders
     Garmin Lidar-Lite <common-rangefinder-lidarlite>
     GY-US42 Sonar <common-rangefinder-gy-us42>
     Hexsoon 24G Radar <common-rangefinder-hexsoon-24g>
-    Hondex Sonar<common-hondex-sonar>
     HC-SR04 Sonar <common-rangefinder-hcsr04>
     JAE JRE-30 <common-rangefinder-jae-jre-30>
-    JSN-SR04T Sonar <common-jsn-sr04t>
     LeddarTech Leddar One <common-leddar-one-lidar>
     LeddarTech LeddarVu8 <common-leddartech-leddarvu8-lidar>
     LightWare SF10 / SF11 Lidar <common-lightware-sf10-lidar>
@@ -90,7 +88,13 @@ Unidirectional Rangefinders
     ST VL53L0X / VL53L1X Lidar <common-vl53l0x-lidar>
     TeraRanger One/EVO Rangefinders <common-teraranger-one-rangefinder>
     TeraRanger NEO <common-teraranger-neo>
-    Underwater Sonar <common-underwater-sonars-landingpage>
+
+Underwater Sonar
+================
+.. toctree::
+    :maxdepth: 1
+
+    Underwater Sonars <common-underwater-sonars-landingpage>
 
 Omnidirectional Proximity Rangefinders
 ======================================
